@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^0.19.2",
+    "react-leaflet": "^2.7.0",
+    "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {
+    "@types/react-router-dom": "^5.1.5"
+  }
+}
