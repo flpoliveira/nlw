@@ -1,3 +1,3 @@
-### Repositório criado para o conteúdo do Next Level Week da RocketSeat.
+### NLW
 
-`npx create-react-app diretorio web --template=typescript`
+* NLW or Next Level Week is a free web course about ReactJS and NodeJS, it happens for one week and this is the repository so i can storage the course's files.
